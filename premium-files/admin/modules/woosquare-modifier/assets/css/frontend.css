@@ -1,0 +1,38 @@
+.modifier-radio label{
+    /*font-weight: 400;
+    float: left;
+    width: 190px;
+    padding: 0;
+    margin: 0 0 0 -210px;*/
+}
+
+
+
+.modifier-radio {
+    display: block;
+    font-size: 14px;
+    text-transform: capitalize;
+    padding: 5px 20px 5px 0px!important;
+
+}
+
+
+.modifier-select .modifier_field_select{
+    width: 100%;
+    outline: none;
+    margin: 10px 0px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 600;
+    background-color: #f2f2f2;
+
+}
+
+.modifier-select{ }
+
+.square-action .modifier_set_name {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+

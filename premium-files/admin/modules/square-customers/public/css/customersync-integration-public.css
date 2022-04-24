@@ -1,0 +1,26 @@
+.square-success {
+    background: #26c6da;
+    color: #fff;
+    padding: 10px;
+}
+
+.squareAddCard {
+    margin-top: 20px;
+    text-align: left;
+    border: none;
+}
+
+.squareAddCard td {
+    border: none;
+}
+
+.squareAddCard .sq-input {
+    height: 35px;
+    padding: 9px;
+    border: 1px solid #eee;
+}
+
+.addCardsWrapper {
+    display: none;
+    width: 100%;
+}

@@ -1,0 +1,25 @@
+.modifier-radio label{
+    font-weight: 400;
+    float: left;
+    width: 190px;
+    padding: 0;
+    margin: 0 0 0 -210px;
+}
+
+.modifier-radio {
+    display: block;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 5px 20px 5px 210px!important;
+
+}
+.modifier-select #modifier_field_product_one{
+    width: 65%;
+    padding: 10px;
+    outline: none;
+
+}
+
+.modifier-select{
+        margin: 10px 0px;
+    }
